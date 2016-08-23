@@ -1,0 +1,13 @@
+print "hello World"
+print "hello again"
+print "I like typing this"
+print "This is fun"
+print "Yay! Printing"
+print "l'd much racher you 'not'."
+print 'I "said" do not touch this.'
+#This in the computer language is called an "octothorpe"
+#"a hash" or "mesh" or "pound"
+#print "agent bridget"
+print "Agent Bree21 is the best undercover agent from Aciso Army"
+print "Followed by agent 11"
+print "Followed by agent magonja 23"
